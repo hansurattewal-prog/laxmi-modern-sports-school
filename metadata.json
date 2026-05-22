@@ -1,0 +1,6 @@
+{
+  "name": "Laxmi Modern Sports School",
+  "description": "Laxmi Modern Sports Senior Secondary School, located in Village Bichpari, Sonepat. Led by Principal Poonam Lather and Director Manjeet Lather. Empowering students in academics and sports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
